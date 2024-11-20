@@ -45,7 +45,6 @@
   </ul>
 </div>
 <!-- Tecnologías que Conozco -->
-<h2 align="center">Tecnologías que Conozco 👨🏻‍💻</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white" alt="SQL" />
