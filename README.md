@@ -1,17 +1,24 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <p align="center">
-  <a href="https://github.com/Andrewgo12/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola+Soy+Kevin Andres Gonzalez Dinas;+Desarrollador+Front-End;+Estudiante+de+Ingeria en sistemas ; +Apasionado+por+aprender!"></a>
+  <a href="https://github.com/Andrewgo12/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola+Soy+Kevin+Andrés+González+Dinas;+Desarrollador+Front-End;+Estudiante+de+Ingeniería+en+Sistemas;+Apasionado+por+aprender+y+explorar+nuevas+tecnologías!">
+  </a>
 </p>
 
-<br>
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+  <i>En este perfil podrás encontrar información sobre mis habilidades, proyectos y conocimientos en diversas tecnologías. Siempre estoy en busca de nuevos retos y oportunidades para seguir aprendiendo y mejorando como desarrollador.</i>
+</p>
+
+<p align="center">
+  <b>Mis tecnologías y herramientas:</b><br>
+  HTML, CSS, JavaScript, React, Node.js, SQL, NoSQL, Git, GitHub, entre otras.<br>
+  Además, me apasiona el desarrollo web, y estoy en constante aprendizaje y evolución en mi carrera.
+</p>
+
+<p align="center">
+  <i>Si deseas más información o colaborar en algún proyecto, no dudes en contactarme.</i>
+</p>
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Andrewgo12&theme=dark&show_icons=true&count_private=true" />
   <br></br>
