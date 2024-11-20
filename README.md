@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <p align="center">
-  <a href="https://github.com/Andrewgo12/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola+Soy+Andrewgo12;+Desarrollador+Front-End+Autodidacta;+Estudiante+de+Computación;+Apasionado+por+aprender+cosas+nuevas!"></a>
+  <a href="https://github.com/Andrewgo12/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola+Soy+Kevin Andres Gonzalez Dinas;+Desarrollador+Front-End;+Estudiante+de+Ingeria en sistemas ; +Apasionado+por+aprender!"></a>
 </p>
 
 <br>
@@ -80,8 +80,6 @@
 
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
