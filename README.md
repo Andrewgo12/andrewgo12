@@ -70,67 +70,30 @@
   </a>
 </p>
 
-# Repositorios Destacados 🚀
+# 📚 **Estudios Realizados**
 
-### Aquí están algunos de mis proyectos de GitHub:
+### 🖥️ **Asistente en Desarrollo de Páginas Web - Instituto Pio**
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+Durante mi tiempo en el **Instituto Pio**, trabajé como asistente en el área de **Desarrollo de Páginas Web**. Allí perfeccioné mis habilidades en las siguientes tecnologías:
 
-<div style="width: 48%; border: 1px solid #ddd; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="70%">
-  <h3>Node-practica</h3>
-  <p>Practicas iniciales de Node.js</p>
-  <p><strong>Lenguaje:</strong> JavaScript</p>
-  <a href="https://github.com/Andrewgo12/Node-practica" target="_blank">Ver Repositorio</a>
-</div>
+- **Python**, **JavaScript (JS)**  
+- **SQL / NoSQL**, **JSON / BSON**
+- **HTML / CSS** (optimización de maquetación y diseño)
+- **React**, **Express**, **Node.js**
 
-<div style="width: 48%; border: 1px solid #ddd; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/File_icon.svg" alt="Archivos" width="70%">
-  <h3>Archivos</h3>
-  <p>Archivos de proyectos en Python, HTML y CSS</p>
-  <p><strong>Lenguajes:</strong> Python, HTML, CSS</p>
-  <a href="https://github.com/Andrewgo12/Archivos" target="_blank">Ver Repositorio</a>
-</div>
+Esta experiencia me permitió fortalecer mi **backend** y **frontend** con un enfoque práctico en la creación de sitios web.
 
-</div>
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+### 🎓 **Universidad Antonio José Camacho**
 
-<div style="width: 48%; border: 1px solid #ddd; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Calculator_icon.svg" alt="Calculadora" width="70%">
-  <h3>Calculadora-Fisica</h3>
-  <p>Calculadora para realizar cálculos de física básica</p>
-  <p><strong>Lenguaje:</strong> HTML</p>
-  <a href="https://github.com/Andrewgo12/Calculadora-Fisica" target="_blank">Ver Repositorio</a>
-</div>
+En la **Universidad Antonio José Camacho**, profundicé en el lenguaje **Java** a través de diversos proyectos. También reforcé mis conocimientos en **fundamentos web** con:
 
-<div style="width: 48%; border: 1px solid #ddd; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/CSS3_logo.svg" alt="CSS Grid & Flexbox" width="70%">
-  <h3>Css-Grid-y-Flecbox</h3>
-  <p>Prácticas de CSS Grid y Flexbox para layouts responsivos</p>
-  <p><strong>Lenguajes:</strong> HTML, CSS</p>
-  <a href="https://github.com/Andrewgo12/Css-Grid-y-Flecbox" target="_blank">Ver Repositorio</a>
-</div>
+- **JavaScript**, **HTML**, **CSS**
+  
+Con estos proyectos, consolidé mis habilidades de desarrollo web y programación orientada a objetos, desarrollando una sólida base en **algoritmos** y **estructuras de datos**.
 
-</div>
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-
-<div style="width: 48%; border: 1px solid #ddd; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo.svg" alt="Formulario HTML" width="70%">
-  <h3>Formularios</h3>
-  <p>Proyectos de formularios en HTML</p>
-  <p><strong>Lenguaje:</strong> HTML</p>
-  <a href="https://github.com/Andrewgo12/Formularios" target="_blank">Ver Repositorio</a>
-</div>
-
-<div style="width: 48%; border: 1px solid #ddd; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/HTML5_logo_with_text.svg" alt="Fundamentos Web" width="70%">
-  <h3>Fundamentos-Web</h3>
-  <p>Plantilla básica para aprender fundamentos de desarrollo web</p>
-  <p><strong>Lenguaje:</strong> HTML</p>
-  <a href="https://github.com/Andrewgo12/Fundamentos-Web" target="_blank">Ver Repositorio</a>
-</div>
-
-</div>
+💡 **Sigo aprendiendo y aplicando mis conocimientos en proyectos reales** para seguir creciendo como desarrollador.
 
