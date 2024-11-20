@@ -71,76 +71,27 @@
 </p>
 
 
-## Repositorios Destacados 🚀
+# Repositorios Destacados 🚀
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+### Aquí están algunos de mis proyectos de GitHub:
 
-  <!-- Repositorio 1 -->
-  <div style="width: 48%; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
-    <img src="https://github.com/Andrewgo12/Node-practica/blob/main/preview-image.png" alt="Node-practica" style="width: 100%; border-radius: 5px;"/>
-    <h3>Node-practica</h3>
-    <p><strong>Descripción:</strong> Practicas iniciales de Node.js para familiarizarse con su entorno.</p>
-    <p><strong>Lenguaje:</strong> JavaScript</p>
-    <a href="https://github.com/Andrewgo12/Node-practica" target="_blank">
-      <button style="padding: 10px 20px; background-color: #6CC24A; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
-    </a>
-  </div>
+| ![Node-practica](https://github.com/Andrewgo12/Node-practica/blob/main/preview-image.png) | ![Archivos](https://github.com/Andrewgo12/Archivos/blob/main/preview-image.png) |
+| :--: | :--: |
+| **Node-practica** | **Archivos** |
+| Practicas iniciales de Node.js | Archivos de proyectos en Python, HTML y CSS |
+| **Lenguaje:** JavaScript | **Lenguajes:** Python, HTML, CSS |
+| [Ver Repositorio](https://github.com/Andrewgo12/Node-practica) | [Ver Repositorio](https://github.com/Andrewgo12/Archivos) |
 
-  <!-- Repositorio 2 -->
-  <div style="width: 48%; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
-    <img src="https://github.com/Andrewgo12/Archivos/blob/main/preview-image.png" alt="Archivos" style="width: 100%; border-radius: 5px;"/>
-    <h3>Archivos</h3>
-    <p><strong>Descripción:</strong> Archivos de proyectos en Python, HTML y CSS para referencia y aprendizaje.</p>
-    <p><strong>Lenguajes:</strong> Python, HTML, CSS</p>
-    <a href="https://github.com/Andrewgo12/Archivos" target="_blank">
-      <button style="padding: 10px 20px; background-color: #3776AB; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
-    </a>
-  </div>
+| ![Calculadora-Fisica](https://github.com/Andrewgo12/Calculadora-Fisica/blob/main/preview-image.png) | ![Css-Grid-y-Flecbox](https://github.com/Andrewgo12/Css-Grid-y-Flecbox/blob/main/preview-image.png) |
+| :--: | :--: |
+| **Calculadora-Fisica** | **Css-Grid-y-Flecbox** |
+| Calculadora para realizar cálculos de física básica | Prácticas de CSS Grid y Flexbox para layouts responsivos |
+| **Lenguaje:** HTML | **Lenguajes:** HTML, CSS |
+| [Ver Repositorio](https://github.com/Andrewgo12/Calculadora-Fisica) | [Ver Repositorio](https://github.com/Andrewgo12/Css-Grid-y-Flecbox) |
 
-  <!-- Repositorio 3 -->
-  <div style="width: 48%; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
-    <img src="https://github.com/Andrewgo12/Calculadora-Fisica/blob/main/preview-image.png" alt="Calculadora-Fisica" style="width: 100%; border-radius: 5px;"/>
-    <h3>Calculadora-Fisica</h3>
-    <p><strong>Descripción:</strong> Calculadora básica para resolver problemas de física.</p>
-    <p><strong>Lenguaje:</strong> HTML</p>
-    <a href="https://github.com/Andrewgo12/Calculadora-Fisica" target="_blank">
-      <button style="padding: 10px 20px; background-color: #FF5733; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
-    </a>
-  </div>
-
-  <!-- Repositorio 4 -->
-  <div style="width: 48%; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
-    <img src="https://github.com/Andrewgo12/Css-Grid-y-Flecbox/blob/main/preview-image.png" alt="Css-Grid-y-Flecbox" style="width: 100%; border-radius: 5px;"/>
-    <h3>Css-Grid-y-Flecbox</h3>
-    <p><strong>Descripción:</strong> Prácticas de CSS Grid y Flexbox para layouts responsivos.</p>
-    <p><strong>Lenguajes:</strong> HTML, CSS</p>
-    <a href="https://github.com/Andrewgo12/Css-Grid-y-Flecbox" target="_blank">
-      <button style="padding: 10px 20px; background-color: #1572B6; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
-    </a>
-  </div>
-
-  <!-- Repositorio 5 -->
-  <div style="width: 48%; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
-    <img src="https://github.com/Andrewgo12/Formularios/blob/main/preview-image.png" alt="Formularios" style="width: 100%; border-radius: 5px;"/>
-    <h3>Formularios</h3>
-    <p><strong>Descripción:</strong> Proyectos de formularios en HTML para diversas aplicaciones.</p>
-    <p><strong>Lenguaje:</strong> HTML</p>
-    <a href="https://github.com/Andrewgo12/formularios" target="_blank">
-      <button style="padding: 10px 20px; background-color: #FF5733; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
-    </a>
-  </div>
-
-  <!-- Repositorio 6 -->
-  <div style="width: 48%; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
-    <img src="https://github.com/Andrewgo12/Fundamentos-Web/blob/main/preview-image.png" alt="Fundamentos-Web" style="width: 100%; border-radius: 5px;"/>
-    <h3>Fundamentos-Web</h3>
-    <p><strong>Descripción:</strong> Plantilla básica para aprender fundamentos de desarrollo web.</p>
-    <p><strong>Lenguaje:</strong> HTML</p>
-    <a href="https://github.com/Andrewgo12/fundamentos-web" target="_blank">
-      <button style="padding: 10px 20px; background-color: #FF5733; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
-    </a>
-  </div>
-
-</div>
-
-
+| ![Formularios](https://github.com/Andrewgo12/Formularios/blob/main/preview-image.png) | ![Fundamentos-Web](https://github.com/Andrewgo12/Fundamentos-Web/blob/main/preview-image.png) |
+| :--: | :--: |
+| **Formularios** | **Fundamentos-Web** |
+| Proyectos de formularios en HTML | Plantilla básica para aprender fundamentos de desarrollo web |
+| **Lenguaje:** HTML | **Lenguaje:** HTML |
+| [Ver Repositorio](https://github.com/Andrewgo12/Formularios) | [Ver Repositorio](https://github.com/Andrewgo12/Fundamentos-Web) |
