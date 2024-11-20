@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <!--
 **Andrewgo12/andrewgo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
