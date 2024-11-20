@@ -44,11 +44,33 @@
     <summary><h2 style="display: inline-block">Tecnologías que Conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+<!-- Tecnologías que Conozco -->
+<h2 align="center">Tecnologías que Conozco 👨🏻‍💻</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/NoSQL-5C6BC0?style=flat&logo=nodedotjs&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
+</p>
+
+<!-- Contact Section -->
+<h2 align="center">Conéctate Conmigo 🤝</h2>
+<p align="center">
+  <a href="mailto:andrewgo12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-andrewgo12@gmail.com-0078D4?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+<p align="center">
+  ![](https://visitcount.itsvg.in/api?id=Andrewgo12&icon=3&color=6)
 </p>
 
 
