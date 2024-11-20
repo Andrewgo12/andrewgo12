@@ -8,7 +8,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/42411091?v=4" alt="Foto de Kevin Andrés González Dinas" width="200" />
+  <img src="[https://avatars.githubusercontent.com/u/42411091?v=4](https://avatars.githubusercontent.com/u/147012730?v=4)" alt="Foto de Kevin Andrés González Dinas" width="200" />
 </p> <br>
 <!--- stats & Trophy (start) -->
 <p align="center">
