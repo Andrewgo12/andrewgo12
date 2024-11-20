@@ -75,23 +75,24 @@
 
 ### Aquí están algunos de mis proyectos de GitHub:
 
-| ![Node-practica](https://github.com/Andrewgo12/Node-practica/blob/main/preview-image.png) | ![Archivos](https://github.com/Andrewgo12/Archivos/blob/main/preview-image.png) |
+| ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) | ![Archivos](https://upload.wikimedia.org/wikipedia/commons/a/a7/File_icon.svg) |
 | :--: | :--: |
 | **Node-practica** | **Archivos** |
 | Practicas iniciales de Node.js | Archivos de proyectos en Python, HTML y CSS |
 | **Lenguaje:** JavaScript | **Lenguajes:** Python, HTML, CSS |
 | [Ver Repositorio](https://github.com/Andrewgo12/Node-practica) | [Ver Repositorio](https://github.com/Andrewgo12/Archivos) |
 
-| ![Calculadora-Fisica](https://github.com/Andrewgo12/Calculadora-Fisica/blob/main/preview-image.png) | ![Css-Grid-y-Flecbox](https://github.com/Andrewgo12/Css-Grid-y-Flecbox/blob/main/preview-image.png) |
+| ![Calculadora](https://upload.wikimedia.org/wikipedia/commons/5/5f/Calculator_icon.svg) | ![CSS Grid & Flexbox](https://upload.wikimedia.org/wikipedia/commons/6/6c/CSS3_logo.svg) |
 | :--: | :--: |
 | **Calculadora-Fisica** | **Css-Grid-y-Flecbox** |
 | Calculadora para realizar cálculos de física básica | Prácticas de CSS Grid y Flexbox para layouts responsivos |
 | **Lenguaje:** HTML | **Lenguajes:** HTML, CSS |
 | [Ver Repositorio](https://github.com/Andrewgo12/Calculadora-Fisica) | [Ver Repositorio](https://github.com/Andrewgo12/Css-Grid-y-Flecbox) |
 
-| ![Formularios](https://github.com/Andrewgo12/Formularios/blob/main/preview-image.png) | ![Fundamentos-Web](https://github.com/Andrewgo12/Fundamentos-Web/blob/main/preview-image.png) |
+| ![Formulario HTML](https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo.svg) | ![Fundamentos Web](https://upload.wikimedia.org/wikipedia/commons/5/51/HTML5_logo_with_text.svg) |
 | :--: | :--: |
 | **Formularios** | **Fundamentos-Web** |
 | Proyectos de formularios en HTML | Plantilla básica para aprender fundamentos de desarrollo web |
 | **Lenguaje:** HTML | **Lenguaje:** HTML |
 | [Ver Repositorio](https://github.com/Andrewgo12/Formularios) | [Ver Repositorio](https://github.com/Andrewgo12/Fundamentos-Web) |
+
