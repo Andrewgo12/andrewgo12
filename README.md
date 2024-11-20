@@ -1,7 +1,9 @@
-![Github Banner](https://github.com/andrewgo12/andrewgo12/blob/main/banner.png)
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <p align="center">
-  <a href="https://github.com/Andrewgo12/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola+Soy+Andrewgo12;+Desarrollador+Front-End+Autodidacta;+Estudiante+de+Computación;+Apasionado+por+aprender+cosas+nuevas!"></a>
+  <a href="https://github.com/Andrewgo12/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola+Soy+Kevin+Andrés+González+Dinas;+Desarrollador+Front-End;+Estudiante+de+Ingeniería+en+Sistemas;+Apasionado+por+aprender+y+explorar+nuevas+tecnologías!">
+  </a>
 </p>
 
 <br>
@@ -73,6 +75,5 @@
   ![](https://visitcount.itsvg.in/api?id=Andrewgo12&icon=3&color=6)
 </div>
 
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
