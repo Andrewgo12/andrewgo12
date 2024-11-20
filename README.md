@@ -63,37 +63,16 @@
 <!-- Contact Section -->
 <h2 align="center">Conéctate Conmigo 🤝</h2>
 <p align="center">
-  <a href="mailto:andrewgo12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-andrewgo12@gmail.com-0078D4?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<p align="center">
-  ![](https://visitcount.itsvg.in/api?id=Andrewgo12&icon=3&color=6)
-</p>
-
-
-<!-- Conectarme conmigo -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate Conmigo🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-  <a href="mailto:andrewgo12@gmail.com" target="blank">
+  <a href="mailto:ing.andresgonzalez.d@gmail.com" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="gmail" height="50" width="50" />
   </a>
 </p>
 
-
-<!-- profile visit count-->
+<!-- Profile Visit Count -->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Andrewgo12&icon=3&color=6)](https://visitcount.itsvg.in)
+  ![](https://visitcount.itsvg.in/api?id=Andrewgo12&icon=3&color=6)
 </div>
 
-
-<!-- horizontal divider (gradiant)-->
+<!-- Horizontal Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
