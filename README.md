@@ -7,7 +7,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github.com/Andrewgo12/andrewgo12/blob/main/IMG-20240414-WA0020.jpg" alt="Foto de Kevin Andrés González Dinas" width="200" />
+  <img src="https://github.com/Andrewgo12/andrewgo12/blob/main/imagen.png" alt="Foto de Kevin Andrés González Dinas" width="200" />
 </p> <br>
 <!--- stats & Trophy (start) -->
 <p align="center">
