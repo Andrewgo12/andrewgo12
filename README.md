@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://github.com/Andrewgo12/andrewgo12/blob/main/imagen.png" alt="Foto de Kevin Andrés González Dinas" width="200" />
 </p> <br>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -75,26 +76,27 @@
 
 ### 🖥️ **Asistente en Desarrollo de Páginas Web - Instituto Pio**
 
-Durante mi tiempo en el **Instituto Pio**, trabajé como asistente en el área de **Desarrollo de Páginas Web**. Allí perfeccioné mis habilidades en las siguientes tecnologías:
+Trabajé como **asistente en desarrollo web** en el **Instituto Pio**, perfeccionando mis habilidades en tecnologías como:
 
 - **Python**, **JavaScript (JS)**  
 - **SQL / NoSQL**, **JSON / BSON**
-- **HTML / CSS** (optimización de maquetación y diseño)
+- **HTML / CSS** (optimización de diseño)
 - **React**, **Express**, **Node.js**
 
-Esta experiencia me permitió fortalecer mi **backend** y **frontend** con un enfoque práctico en la creación de sitios web.
+Esta experiencia me ayudó a consolidar mis conocimientos tanto en **backend** como en **frontend**.
 
 ---
 
 ### 🎓 **Universidad Antonio José Camacho**
 
-En la **Universidad Antonio José Camacho**, profundicé en el lenguaje **Java** a través de diversos proyectos. También reforcé mis conocimientos en **fundamentos web** con:
+En la **Universidad Antonio José Camacho**, profundicé en **Java** mediante proyectos prácticos. Además, reforcé mis conocimientos en **fundamentos web**:
 
 - **JavaScript**, **HTML**, **CSS**
   
-Con estos proyectos, consolidé mis habilidades de desarrollo web y programación orientada a objetos, desarrollando una sólida base en **algoritmos** y **estructuras de datos**.
+Aquí consolidé mis habilidades en **algoritmos**, **estructuras de datos** y **programación orientada a objetos**.
 
 ---
 
 💡 **Sigo aprendiendo y aplicando mis conocimientos en proyectos reales** para seguir creciendo como desarrollador.
+
 
