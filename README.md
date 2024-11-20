@@ -69,11 +69,76 @@
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="gmail" height="50" width="50" />
   </a>
 </p>
+## Repositorios Destacados 🚀
 
-<!-- Profile Visit Count -->
-<div align="center">
-  ![](https://visitcount.itsvg.in/api?id=Andrewgo12&icon=3&color=6)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <!-- Repositorio 1 -->
+  <div style="width: 250px; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
+    <img src="https://github.com/Andrewgo12/Node-practica/blob/main/preview-image.png" alt="Node-practica" style="width: 100%; border-radius: 5px;"/>
+    <h3>Node-practica</h3>
+    <p><strong>Descripción:</strong> Practicas iniciales de Node.js para familiarizarse con su entorno.</p>
+    <p><strong>Lenguaje:</strong> JavaScript</p>
+    <a href="https://github.com/Andrewgo12/Node-practica" target="_blank">
+      <button style="padding: 10px 20px; background-color: #6CC24A; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
+    </a>
+  </div>
+
+  <!-- Repositorio 2 -->
+  <div style="width: 250px; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
+    <img src="https://github.com/Andrewgo12/Archivos/blob/main/preview-image.png" alt="Archivos" style="width: 100%; border-radius: 5px;"/>
+    <h3>Archivos</h3>
+    <p><strong>Descripción:</strong> Archivos de proyectos en Python, HTML y CSS para referencia y aprendizaje.</p>
+    <p><strong>Lenguajes:</strong> Python, HTML, CSS</p>
+    <a href="https://github.com/Andrewgo12/Archivos" target="_blank">
+      <button style="padding: 10px 20px; background-color: #3776AB; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
+    </a>
+  </div>
+
+  <!-- Repositorio 3 -->
+  <div style="width: 250px; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
+    <img src="https://github.com/Andrewgo12/Calculadora-Fisica/blob/main/preview-image.png" alt="Calculadora-Fisica" style="width: 100%; border-radius: 5px;"/>
+    <h3>Calculadora-Fisica</h3>
+    <p><strong>Descripción:</strong> Calculadora básica para resolver problemas de física.</p>
+    <p><strong>Lenguaje:</strong> HTML</p>
+    <a href="https://github.com/Andrewgo12/Calculadora-Fisica" target="_blank">
+      <button style="padding: 10px 20px; background-color: #FF5733; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
+    </a>
+  </div>
+
+  <!-- Repositorio 4 -->
+  <div style="width: 250px; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
+    <img src="https://github.com/Andrewgo12/Css-Grid-y-Flecbox/blob/main/preview-image.png" alt="Css-Grid-y-Flecbox" style="width: 100%; border-radius: 5px;"/>
+    <h3>Css-Grid-y-Flecbox</h3>
+    <p><strong>Descripción:</strong> Prácticas de CSS Grid y Flexbox para layouts responsivos.</p>
+    <p><strong>Lenguajes:</strong> HTML, CSS</p>
+    <a href="https://github.com/Andrewgo12/Css-Grid-y-Flecbox" target="_blank">
+      <button style="padding: 10px 20px; background-color: #1572B6; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
+    </a>
+  </div>
+
+  <!-- Repositorio 5 -->
+  <div style="width: 250px; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
+    <img src="https://github.com/Andrewgo12/Formularios/blob/main/preview-image.png" alt="Formularios" style="width: 100%; border-radius: 5px;"/>
+    <h3>Formularios</h3>
+    <p><strong>Descripción:</strong> Proyectos de formularios en HTML para diversas aplicaciones.</p>
+    <p><strong>Lenguaje:</strong> HTML</p>
+    <a href="https://github.com/Andrewgo12/formularios" target="_blank">
+      <button style="padding: 10px 20px; background-color: #FF5733; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
+    </a>
+  </div>
+
+  <!-- Repositorio 6 -->
+  <div style="width: 250px; margin: 15px; padding: 20px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
+    <img src="https://github.com/Andrewgo12/Fundamentos-Web/blob/main/preview-image.png" alt="Fundamentos-Web" style="width: 100%; border-radius: 5px;"/>
+    <h3>Fundamentos-Web</h3>
+    <p><strong>Descripción:</strong> Plantilla básica para aprender fundamentos de desarrollo web.</p>
+    <p><strong>Lenguaje:</strong> HTML</p>
+    <a href="https://github.com/Andrewgo12/fundamentos-web" target="_blank">
+      <button style="padding: 10px 20px; background-color: #FF5733; color: white; border: none; border-radius: 5px;">Ver Repositorio</button>
+    </a>
+  </div>
 </div>
+
 
 
 
