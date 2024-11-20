@@ -10,16 +10,16 @@
   <img src="https://github.com/Andrewgo12/andrewgo12/blob/main/imagen.png" alt="Foto de Kevin Andrés González Dinas" width="200" />
 </p> <br>
 
-<!--- stats & Trophy (start) -->
+<!--- estadísticas y trofeos (inicio) -->
 <p align="center">
-  <!--- stats (start) -->
+  <!--- estadísticas (inicio) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Andrewgo12&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewgo12&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Obtén estadísticas de racha para tu perfil en git.io/streak-stats" alt="Racha de estadísticas" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewgo12&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -29,20 +29,20 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
+<!--- estadísticas (fin) -->
 
-<!--- trophy (start) -->
+<!--- trofeo (inicio) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Andrewgo12&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Ir a fuente">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Andrewgo12&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROFEO" />
     </a>
 </div>
-<!--- trophy (start) -->  
+<!--- trofeo (fin) -->  
 </p>        
-<!--- stats (end) -->
+<!--- estadísticas (fin) -->
 
 
-<!--h1 without bottom border-->
+<!-- h1 sin borde inferior -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tecnologías que Conozco👨🏻‍💻</h2></summary>
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
 </p>
 
-<!-- Contact Section -->
+<!-- Sección de contacto -->
 <h2 align="center">Conéctate Conmigo 🤝</h2>
 <p align="center">
   <a href="mailto:ing.andresgonzalez.d@gmail.com" target="blank">
@@ -76,27 +76,26 @@
 
 ### 🖥️ **Asistente en Desarrollo de Páginas Web - Instituto Pio**
 
-Trabajé como **asistente en desarrollo web** en el **Instituto Pio**, perfeccionando mis habilidades en tecnologías como:
+Durante mi tiempo en el **Instituto Pio**, trabajé como asistente en el área de **Desarrollo de Páginas Web**. Allí perfeccioné mis habilidades en las siguientes tecnologías:
 
 - **Python**, **JavaScript (JS)**  
 - **SQL / NoSQL**, **JSON / BSON**
-- **HTML / CSS** (optimización de diseño)
+- **HTML / CSS** (optimización de maquetación y diseño)
 - **React**, **Express**, **Node.js**
 
-Esta experiencia me ayudó a consolidar mis conocimientos tanto en **backend** como en **frontend**.
+Esta experiencia me permitió fortalecer mi **backend** y **frontend** con un enfoque práctico en la creación de sitios web.
 
 ---
 
 ### 🎓 **Universidad Antonio José Camacho**
 
-En la **Universidad Antonio José Camacho**, profundicé en **Java** mediante proyectos prácticos. Además, reforcé mis conocimientos en **fundamentos web**:
+En la **Universidad Antonio José Camacho**, profundicé en el lenguaje **Java** a través de diversos proyectos. También reforcé mis conocimientos en **fundamentos web** con:
 
 - **JavaScript**, **HTML**, **CSS**
   
-Aquí consolidé mis habilidades en **algoritmos**, **estructuras de datos** y **programación orientada a objetos**.
+Con estos proyectos, consolidé mis habilidades de desarrollo web y programación orientada a objetos, desarrollando una sólida base en **algoritmos** y **estructuras de datos**.
 
 ---
 
 💡 **Sigo aprendiendo y aplicando mis conocimientos en proyectos reales** para seguir creciendo como desarrollador.
-
 
