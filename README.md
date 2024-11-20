@@ -6,76 +6,113 @@
   </a>
 </p>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Andrewgo12&theme=dark&show_icons=true&count_private=true" />
+<!-- Stats section -->
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrewgo12&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewgo12&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Andrewgo12&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Andrewgo12&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewgo12&theme=dark&hide_border=false" />
 </div>
-<!--- trophy (start) -->  
-</p>        
-<!--- stats (end) -->
 
+<!-- Repositories Section -->
+<h2 align="center">Repositorios Destacados 🚀</h2>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que Conozco👨🏻‍💻</h2></summary>
-  </ul>
+<p align="center">
+  <a href="https://github.com/Andrewgo12/Node-practica">
+    <img src="https://img.shields.io/badge/Node.js-6CC24A?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://github.com/Andrewgo12/Archivos">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://github.com/Andrewgo12/Calculadora-Fisica">
+    <img src="https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  </a>
+  <a href="https://github.com/Andrewgo12/Css-Grid-y-Flecbox">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+  </a>
+  <a href="https://github.com/Andrewgo12/formularios">
+    <img src="https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  </a>
+  <a href="https://github.com/Andrewgo12/fundamentos-web">
+    <img src="https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  </a>
+</p>
+
+<!-- Repo details -->
+<div align="center">
+  <h3>Repositorio: Node-practica</h3>
+  <p>Practicas iniciales de Node.js</p>
+  <p><strong>Lenguajes utilizados:</strong> JavaScript</p>
+  <a href="https://github.com/Andrewgo12/Node-practica" target="_blank">
+    <button>Ver Repositorio</button>
+  </a>
 </div>
-<!--tech stack icons-->
+
+<div align="center">
+  <h3>Repositorio: Archivos</h3>
+  <p>Archivos de proyectos en Python, HTML y CSS</p>
+  <p><strong>Lenguajes utilizados:</strong> Python, HTML, CSS</p>
+  <a href="https://github.com/Andrewgo12/Archivos" target="_blank">
+    <button>Ver Repositorio</button>
+  </a>
+</div>
+
+<div align="center">
+  <h3>Repositorio: Calculadora-Fisica</h3>
+  <p>Calculadora para realizar cálculos de física básica</p>
+  <p><strong>Lenguajes utilizados:</strong> HTML</p>
+  <a href="https://github.com/Andrewgo12/Calculadora-Fisica" target="_blank">
+    <button>Ver Repositorio</button>
+  </a>
+</div>
+
+<div align="center">
+  <h3>Repositorio: Css-Grid-y-Flecbox</h3>
+  <p>Prácticas de CSS Grid y Flexbox</p>
+  <p><strong>Lenguajes utilizados:</strong> HTML, CSS</p>
+  <a href="https://github.com/Andrewgo12/Css-Grid-y-Flecbox" target="_blank">
+    <button>Ver Repositorio</button>
+  </a>
+</div>
+
+<div align="center">
+  <h3>Repositorio: Formularios</h3>
+  <p>Proyectos de formularios en HTML</p>
+  <p><strong>Lenguajes utilizados:</strong> HTML</p>
+  <a href="https://github.com/Andrewgo12/formularios" target="_blank">
+    <button>Ver Repositorio</button>
+  </a>
+</div>
+
+<div align="center">
+  <h3>Repositorio: Fundamentos-Web</h3>
+  <p>Plantilla de fundamentos de desarrollo web</p>
+  <p><strong>Lenguajes utilizados:</strong> HTML</p>
+  <a href="https://github.com/Andrewgo12/fundamentos-web" target="_blank">
+    <button>Ver Repositorio</button>
+  </a>
+</div>
+
+<!-- Tech Stack -->
+<h2 align="center">Tecnologías que Conozco 👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
-
-<!-- Conectarme conmigo -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate Conmigo🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
+<!-- Contact Section -->
+<h2 align="center">Conéctate Conmigo 🤝</h2>
 <p align="center">
   <a href="mailto:ing.andresgonzalez.d@gmail.com" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="gmail" height="50" width="50" />
   </a>
 </p>
 
-
-<!-- profile visit count-->
+<!-- Profile Visit Count -->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Andrewgo12&icon=3&color=6)](https://visitcount.itsvg.in)
+  ![](https://visitcount.itsvg.in/api?id=Andrewgo12&icon=3&color=6)
 </div>
 
-
-<!-- horizontal divider (gradiant)-->
+<!-- Horizontal Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<!--profile visit count-->
-<div align="center">
-  
-</div>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
