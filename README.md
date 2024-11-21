@@ -81,7 +81,7 @@ Durante mi tiempo en el **Instituto Pio**, trabajé como asistente en el área d
 - **Python**, **JavaScript (JS)**  
 - **SQL / NoSQL**, **JSON / BSON**
 - **HTML / CSS** (optimización de maquetación y diseño)
-- **React**, **Express**, **Node.js**
+- **React**, **Express**, **Node.js** **typescrip**
 
 Esta experiencia me permitió fortalecer mi **backend** y **frontend** con un enfoque práctico en la creación de sitios web.
 
