@@ -91,7 +91,7 @@ Esta experiencia me permitió fortalecer mi **backend** y **frontend** con un en
 
 En la **Universidad Antonio José Camacho**, profundicé en el lenguaje **Java** a través de diversos proyectos. También reforcé mis conocimientos en **fundamentos web** con:
 
-- **JavaScript**, **HTML**, **CSS**
+-**java**, **JavaScript**, **HTML**, **CSS**
   
 Con estos proyectos, consolidé mis habilidades de desarrollo web y programación orientada a objetos, desarrollando una sólida base en **algoritmos** y **estructuras de datos**.
 
