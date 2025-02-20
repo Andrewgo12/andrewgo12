@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Andrewgo12/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola+Soy+Kevin+Andrés+González+Dinas;+Desarrollador+Front-End;+Estudiante+de+Ingeniería+en+Sistemas;+Apasionado+por+aprender+nuevas+tecnologías!;A+continuacion+estas+mis+datos:">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola+Soy+Kevin+Andrés+González+Dinas;+Desarrollador+Front-End;+Estudiante+de+Ingeniería+en+Sistemas;+Apasionado+por+aprender+nuevas+tecnologías!;A+continuacion+estan+mis+datos:">
   </a>
 </p>
 <br>
